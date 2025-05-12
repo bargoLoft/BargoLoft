@@ -13,8 +13,6 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qmak01)](https://solved.ac/qmak01)
 
-포토폴리오.
-
 Flutter
 다너다너, 두수앞 
 
